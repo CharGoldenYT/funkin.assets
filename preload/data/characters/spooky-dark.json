@@ -4,6 +4,7 @@
   "renderType": "sparrow",
   "assetPath": "characters/spooky_dark",
   "singTime": 8.0,
+  "healthBarColor": [213, 126, 0],
   "healthIcon": {
     "id": "spooky",
     "flipX": false
